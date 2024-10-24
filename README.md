@@ -50,7 +50,9 @@ To run this project, you need to install the required libraries. You can do this
 The dataset includes customer information, transaction history, and behavior patterns. Each record consists of various features such as: 
 * Customer demographics (e.g., age, gender, location) 
 * Account information (e.g., balance, number of products)
-* Transaction history (e.g., activity levels, types of transactions) The target variable is a binary label indicating whether the customer has churned or not.
+* Transaction history (e.g., activity levels, types of transactions)
+
+The target variable is a binary label indicating whether the customer has churned or not.
 
 ## How to Contribute
 1. Fork the repository.
